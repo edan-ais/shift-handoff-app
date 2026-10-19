@@ -30,7 +30,7 @@ Blue header, white cards, numbered steps. Task rows have a blue left edge, incid
 Empty list shows a hint. Unknown names are left blank rather than guessed. Items are never blocked for missing fields, only flagged.
 
 ## Product Decisions
-- Agent proposed, learner approved proceeding: rule-based inference only, no paid AI.
+- I chose rule-based inference only, no paid AI.
 - A name is only taken when the line has a clear owner pattern; common task verbs and nouns are not treated as names.
 - Last 20 handoffs kept.
 
@@ -47,4 +47,4 @@ Language-model parsing as an optional add-on, shift templates.
 Replacing a scheduling or task-management system.
 
 ## Open Questions
-None blocking. Learner answers on experience and learning goals are "not established" (delegated).
+None blocking.
