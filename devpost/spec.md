@@ -43,4 +43,4 @@ A line with an unusual name pattern gets no owner (flagged, not guessed). A date
 Pattern rules instead of a language model, to stay free and fully offline. Same-weekday dates mean next week.
 
 ## Decisions and Open Issues
-Rule-based inference only (agent proposal, approved to proceed by the learner). Run the app by opening the file; a live deployment is optional and not part of this build.
+Rule-based inference only. Run the app by opening the file; a live deployment is optional and not part of this build.
