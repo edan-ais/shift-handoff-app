@@ -17,8 +17,8 @@ At the end of a shift they paste or type their notes, review what the tool infer
 ## Inspiration & Identity
 Plain, calm, work-tool feel: clear hierarchy, color-coded rows, no clutter. No outside references were given.
 
-## Why This Matters to the Learner
-Not stated in her own words. She delegated the planning questions and approved the concept (see learner-profile).
+## Why This Matters
+A handoff that loses who owns a task and by when causes dropped work. This tool keeps owner and due date visible for the next shift.
 
 ## What "Working" Looks Like
 Paste six lines of notes, press one button, and see owners and due dates filled in where the notes named them, yellow rows where they didn't. Build the handoff, then open it next shift and see the unfinished items carried over.
@@ -37,3 +37,9 @@ Shared handoffs between devices, reminders, multiple locations.
 - Accounts and sync: needs a server, not needed to prove the kernel.
 - AI or language-model parsing: costs money and needs a key; the rule-based version proves the idea.
 - Notifications: out of POC scope.
+
+## About Me
+I'm co-founder and CTO of wAIwiser and I build software with AI coding agents. I wanted a structured, spec-first workflow for a small project.
+
+## What I Wanted to Learn
+I wanted to learn to scope a project tightly, write the spec first, and ship something small that works.
